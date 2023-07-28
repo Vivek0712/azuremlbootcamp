@@ -22,25 +22,28 @@
 - Day 2: Will be announced on July 30
 
 ### Social Media Contest Winner Badge:
-Follow both the handles
-Most number of likes and shares (cumulatively) – Day wise and tag us in the respective social media
-Winners: Linkedin and Twitter – Top 2
-No need of submission. Organisers will track based on tag
+
+Rules:
+- Follow both the handles
+- Most number of likes and shares (cumulatively) – Day wise 
+- Tag us in the respective social media
+- Winners: Linkedin and Twitter – Top 2
+- No need of submission. Organisers will track based on tag
 
 ### Best Knowledge Sharer Badge:
-Follow the bootcamp session
-Take notes of the session in your GitHub or any blogging site
-Winner – Day wise
+- Follow the bootcamp session
+- Take notes of the session in your GitHub or any blogging site
+- Winner – Day wise
 
 ### Quiz Contest Winner Badge: 
-Day 1 Quiz: https://quiz.konfhub.com/q/azureml-bootcamp-day-1
-Day 2 Quiz: Will be announced on July 30
+- Day 1 Quiz: https://quiz.konfhub.com/q/azureml-bootcamp-day-1
+- Day 2 Quiz: Will be announced on July 30
 
 ### Capstone Project Champion:
-Capstone Project details will be announced on Day 2
+- Capstone Project details will be announced on Day 2
 
 ### Microsoft Learn Collection Champion:
-details will be announced on Day 2
+- details will be announced on Day 2
 
 
 
