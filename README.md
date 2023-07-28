@@ -4,7 +4,7 @@
 - Day 1 LiveStream: https://www.youtube.com/watch?v=QT_geI_vuAU
 - Day 2 LiveStream: Will be posted
 - Digital Badges: https://badgr.com/public/issuers/dxEevzg3RGGns0glwjVNCg/badges
-
+- Slidedeck / Code: Will be uploaded after bootcamp
 
 ## Organiser / Host - Social Media Links:
 
