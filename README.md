@@ -23,7 +23,7 @@ Twitter: https://twitter.com/NavaneethhGopal
 ## Digital Badges / Contest Links:
 
 ### Participation Badge: 
-- Day 1: https://forms.gle/xXigfshFQUepZHSr8
+- Day 1: https://forms.gle/xXigfshFQUepZHSr8 (Closed)
 - Day 2: Will be announced on July 30
 
 ### Social Media Contest Winner Badge:
