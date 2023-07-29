@@ -43,7 +43,7 @@ Rules:
 - Capstone Project details will be announced on Day 2
 
 ### Microsoft Learn Collection Champion:
-- details will be announced on Day 2
+- [Vivek's Azure Data Scientist (beginner) ](https://learn.microsoft.com/en-us/users/vivekraja-0204/collections/30zzur6y1yjrxm)https://learn.microsoft.com/en-us/users/vivekraja-0204/collections/30zzur6y1yjrxm
 
 
 
