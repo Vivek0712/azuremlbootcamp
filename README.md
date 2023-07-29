@@ -2,7 +2,7 @@
 
 - Registration / Membership: https://bit.ly/azuremlbootcamp
 - Day 1 LiveStream: https://www.youtube.com/watch?v=QT_geI_vuAU
-- Day 2 LiveStream: Will be posted
+- Day 2 LiveStream: https://www.youtube.com/watch?v=ChZBp0F0WgY
 - Digital Badges: https://badgr.com/public/issuers/dxEevzg3RGGns0glwjVNCg/badges
 - Slidedeck / Code: Will be uploaded after bootcamp
 
@@ -10,6 +10,11 @@
 
 - Linkedin: https://www.linkedin.com/in/azuredevelopercommunitytamilnadu/
 - Twitter: https://twitter.com/AzDevTamilnadu
+
+Navaneethan Gopal: 
+Linkedin: https://www.linkedin.com/in/navaneethangopal/
+Twitter: https://twitter.com/NavaneethhGopal
+
 
 ## Speaker Social Media:
 - Linkedin: https://linkedin.com/in/vivek0712
