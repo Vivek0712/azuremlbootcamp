@@ -1,4 +1,4 @@
-# Two Day Azure ML OnlineBootcamp by Developer Community Tamil Nadu \
+# Two Day Azure ML OnlineBootcamp by Developer Community Tamil Nadu
 Speaker: Vivek Raja ; Host: Navaneethan Gopal
 
 
