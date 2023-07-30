@@ -48,7 +48,7 @@ Rules:
 - Capstone Project Rules and Submission: https://bit.ly/azuremlbootcamp-capstone
 
 ### Microsoft Learn Collection Champion:
-- Complete and Submit the Proof of MS Learn Collection: https://forms.gle/W5EZ9G1H1PZt3r416
+- Complete and Submit the Proof of MS Learn Collection: https://bit.ly/mslearn-submission
 
 
 
