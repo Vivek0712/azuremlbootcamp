@@ -1,10 +1,13 @@
-# Two Day Azure ML OnlineBootcamp by Azure Developer Community Tamil Nadu
+# Two Day Azure ML OnlineBootcamp by Developer Community Tamil Nadu \
+Speaker: Vivek Raja ; Host: Navaneethan Gopal
+
+
 
 - Registration / Membership: https://bit.ly/azuremlbootcamp
 - Day 1 LiveStream: https://www.youtube.com/watch?v=QT_geI_vuAU
 - Day 2 LiveStream: https://www.youtube.com/watch?v=ChZBp0F0WgY
 - Digital Badges: https://badgr.com/public/issuers/dxEevzg3RGGns0glwjVNCg/badges
-- Slidedeck / Code: Will be uploaded after bootcamp
+- Slidedeck / Code: Available under Open Source. Do give credit for the PPT, Star and fork the the repo before using
 
 ## Organiser / Host - Social Media Links:
 
