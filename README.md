@@ -45,10 +45,10 @@ Rules:
 - Day 2 Quiz: Will be announced on July 30
 
 ### Capstone Project Champion:
-- Capstone Project details will be announced on Day 2
+- Capstone Project Rules and Submission
 
 ### Microsoft Learn Collection Champion:
-- Learn Collection and submission details will be announced on Day 2
+- Complete and Submit the Proof of MS Learn Collection: https://forms.gle/W5EZ9G1H1PZt3r416
 
 
 
