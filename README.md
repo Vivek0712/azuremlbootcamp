@@ -24,7 +24,7 @@ Twitter: https://twitter.com/NavaneethhGopal
 
 ### Participation Badge: 
 - Day 1: https://forms.gle/xXigfshFQUepZHSr8 (Closed)
-- Day 2: Will be announced on July 30
+- Day 2: https://forms.gle/zpKMBaPLS1MzBvKTA (Open)
 
 ### Social Media Contest Winner Badge:
 
@@ -45,7 +45,7 @@ Rules:
 - Day 2 Quiz: Will be announced on July 30
 
 ### Capstone Project Champion:
-- Capstone Project Rules and Submission
+- Capstone Project Rules and Submission: https://bit.ly/azuremlbootcamp-capstone
 
 ### Microsoft Learn Collection Champion:
 - Complete and Submit the Proof of MS Learn Collection: https://forms.gle/W5EZ9G1H1PZt3r416
