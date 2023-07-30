@@ -42,7 +42,7 @@ Rules:
 
 ### Quiz Contest Winner Badge: 
 - Day 1 Quiz: https://quiz.konfhub.com/q/azureml-bootcamp-day-1
-- Day 2 Quiz: Will be announced on July 30
+- Day 2 Quiz: https://quiz.konfhub.com/q/azureml-bootcamp-day-2
 
 ### Capstone Project Champion:
 - Capstone Project Rules and Submission: https://bit.ly/azuremlbootcamp-capstone
